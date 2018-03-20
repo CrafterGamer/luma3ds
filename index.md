@@ -6,6 +6,6 @@ since github has finished the hourly build function, I decided to upload hourly 
 
 ### Luma3ds Nightly
 
-File | Date | Message
------------- | ------------- | -------------
-Test | Test | Test
+File | Commit | Date | Message
+------------ | ------------- | ------------- | -------------
+Test | Test | Test | Test
